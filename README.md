@@ -1,5 +1,8 @@
-# Install
+## Install
+```bash
 npm install
+```
 
-# About
-Used "gjs-preset-webpage" plugin for the basic structure and integrated it in react.
+## Info
+- Used "gjs-preset-webpage" plugin for the basic structure and integrated it in react.
+- Add your own HTML code and External CSS to make it editable and generate the new html and css code.
